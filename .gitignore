@@ -1,2 +1,5 @@
 # Do not put jars in the piece, way too big
 *.jar
+
+# Do not capture data
+data/*
